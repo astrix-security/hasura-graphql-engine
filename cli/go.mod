@@ -17,10 +17,10 @@ require (
 	github.com/denisenkom/go-mssqldb v0.0.0-20190515213511-eb9f6a1743f3
 	github.com/elazarl/goproxy v0.0.0-20191011121108-aa519ddbe484 // indirect
 	github.com/fatih/color v1.13.0
-	github.com/gin-contrib/cors v1.3.0
+	github.com/gin-contrib/cors v1.6.0
 	github.com/gin-contrib/static v0.0.0-20191128031702-f81c604d8ac2
 	github.com/gin-gonic/contrib v0.0.0-20191209060500-d6e26eeaa607
-	github.com/gin-gonic/gin v1.5.0
+	github.com/gin-gonic/gin v1.9.1
 	github.com/goccy/go-yaml v1.9.5
 	github.com/gofrs/uuid v3.2.0+incompatible
 	github.com/gonvenience/ytbx v1.4.2
@@ -39,18 +39,17 @@ require (
 	github.com/onsi/gomega v1.16.0
 	github.com/ory/dockertest/v3 v3.9.1
 	github.com/parnurzeal/gorequest v0.2.16
-	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/skratchdot/open-golang v0.0.0-20190402232053-79abb63cd66e
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.4.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.10.0
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.9.0
 	github.com/subosito/gotenv v1.2.0
-	github.com/vektah/gqlparser/v2 v2.4.3
-	golang.org/x/term v0.0.0-20210916214954-140adaaadfaf
+	github.com/vektah/gqlparser/v2 v2.5.15
+	golang.org/x/term v0.18.0
 	gopkg.in/src-d/go-git.v4 v4.13.1
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	moul.io/http2curl v1.0.0 // indirect
 )
